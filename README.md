@@ -1,6 +1,7 @@
 # 🦖 AG - DinoRun
 
 Un juego estilo *runner* en JavaScript inspirado en el clásico dinosaurio de Chrome, con obstáculos, animaciones de meteoritos, montañas en capas, nubes con profundidad, detección de colisiones mejorada, y un diseño visual mejorado.
+![Imagen del juego Dino](./dino.png)
 
 ## 🎮 Cómo jugar
 
