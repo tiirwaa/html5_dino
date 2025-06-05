@@ -25,3 +25,4 @@ Un juego estilo *runner* en JavaScript inspirado en el clásico dinosaurio de Ch
 https://agsoft.co.cr/juegos/dino/juego.html
 
 _Creado por **A&G Programación y Desarrollo de Sistemas Informáticos S.A.**_
+[![Logo de A&G](https://agsoft.co.cr/wp-content/uploads/2023/08/logo.png)](https://agsoft.co.cr)
