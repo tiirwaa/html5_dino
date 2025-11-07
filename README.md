@@ -1,30 +1,34 @@
 # 🦖 AG - DinoRun
 
-Un juego estilo *runner* en JavaScript inspirado en el clásico dinosaurio de Chrome, con obstáculos, animaciones de meteoritos, montañas en capas, nubes con profundidad, detección de colisiones mejorada, y un diseño visual mejorado.
-![Imagen del juego Dino](./dino.png)
+See [README.es.md](README.es.md) for the Spanish version.
 
-## 🎮 Cómo jugar
+A JavaScript *runner* style game inspired by the classic Chrome dinosaur, featuring obstacles, meteor animations, layered mountains, depth clouds, improved collision detection, and enhanced visual design.
 
-- Presiona **espacio** o **toca la pantalla** para iniciar el juego.
-- El dinosaurio corre automáticamente.
-- **Salta** con la tecla **espacio** o tocando la pantalla para evitar los obstáculos.
-- Esquiva obstáculos para sobrevivir.
-- El juego termina si chocas con algo.
+![Dino game image](./dino.png)
 
-## 🚀 Características
+## 🎮 How to Play
 
-- Obstáculos dinámicos generados aleatoriamente.
-- Meteoritos con trayectorias realistas y caída diagonal.
-- Colinas/montañas con paralaje para dar sensación de profundidad.
-- Nubes 3D animadas y gradientes suaves.
-- Sonidos de salto, colisión y fondo.
-- Sistema de puntaje con incremento progresivo.
-- Detección de colisiones precisa con margen ajustable.
-- Control táctil y por teclado.
-  
-## 🎮 Jugar Ahora
+- Press **space** or **tap the screen** to start the game.
+- The dinosaur runs automatically.
+- **Jump** with the **space** key or by tapping the screen to avoid obstacles.
+- Dodge obstacles to survive.
+- The game ends if you collide with something.
+
+## 🚀 Features
+
+- Dynamically generated random obstacles.
+- Meteors with realistic trajectories and diagonal fall.
+- Hills/mountains with parallax for depth sensation.
+- Animated 3D clouds and smooth gradients.
+- Jump, collision, and background sounds.
+- Progressive score increment system.
+- Precise collision detection with adjustable margin.
+- Touch and keyboard controls.
+
+## 🎮 Play Now
+
 https://agsoft.co.cr/juegos/dino/juego.html
 
-[![Logo de A&G](https://agsoft.co.cr/wp-content/uploads/2023/08/logo.png)](https://agsoft.co.cr)
-_Creado por **A&G Programación y Desarrollo de Sistemas Informáticos S.A.**_
+[![A&G Logo](https://agsoft.co.cr/wp-content/uploads/2023/08/logo.png)](https://agsoft.co.cr)
 
+_Created by **A&G Programación y Desarrollo de Sistemas Informáticos S.A.**_
